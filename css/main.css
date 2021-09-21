@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+h1
+{
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 5vh;
+}
+
+label, input {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+
+
+.fundo{
+    width: 100vh;
+    height: 100vh;
+}
+
+.container{
+    border-top: 3px solid black;
+    background-color: ghostwhite;
+    padding: 5vh;
+    width: 90vh;
+    height: 50vh;
+    margin-top: 20vh;
+    margin-left: 60vh;
+    padding: 5vh;
+    text-align: right;
+}
+
+.form{
+    display: inline-block;
+    padding: 2vh;
+    margin-top: 5vh;
+    margin-left: 20vh;
+}
+
+
